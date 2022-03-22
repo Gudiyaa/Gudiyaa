@@ -1,0 +1,4 @@
+ip-Death_City_XD.aternos.me
+port-44427
+Dyn Ip-borador.aternos.host:44427
+Name-DEMON_IS
